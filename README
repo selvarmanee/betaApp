@@ -1,0 +1,5 @@
+Use maven 3.0.3 or later
+
+git pull all the code
+
+:> mvn clean package
